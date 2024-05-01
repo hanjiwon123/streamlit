@@ -1,0 +1,13 @@
+streamlit
+OpenAI
+requests
+textwrap
+datetime
+os
+PdfReader
+tiktoken
+deepl
+yt_dlp
+YouTubeTranscriptApi
+TextFormatter
+Path
