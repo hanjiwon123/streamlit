@@ -1,7 +1,6 @@
 streamlit
 OpenAI
 requests
-textwrap
 datetime
 os
 PdfReader
