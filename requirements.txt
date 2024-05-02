@@ -1,12 +1,7 @@
+openai
 streamlit
-OpenAI
-requests
-datetime
-os
-PdfReader
-tiktoken
 deepl
+tiktoken
+PyPDF2
 yt_dlp
-YouTubeTranscriptApi
-TextFormatter
-Path
+youtube_transcript_api
